@@ -1,0 +1,58 @@
+{
+"TypesofRice":
+  [
+    
+  {
+      "name": "Basumathi",
+      "weight": "1",
+      "price": "220 "
+  },
+      {
+        "name": "Bullet",
+        "weight":"20", 
+        "price":"210"
+        
+       
+      }
+
+
+
+  ],
+
+"TypesofWheat":
+  [
+   {
+      "name": "GreenGram",
+      "weight": "2",
+      "price:" "230"
+    },
+   {
+      "name": "HorseGram",
+      "weight": "20",
+      "price": "220"
+      
+    }
+
+
+
+  ],
+
+"TypesofPulses":
+  [
+    {
+      "name": "Durum",
+      "weight": "1",
+      "price:" "240"
+    },
+    {
+      "name": "Spelt",
+      "weight": "20",
+      "price" : "270"
+     }
+
+
+
+  ]
+}
+
+  
